@@ -12,7 +12,6 @@ Um aplicativo simples de gerenciamento de tarefas que permite aos usuários adic
 - [Como Usar](#-como-usar)
 - [Instalação](#-instalação)
 - [Contribuição](#-contribuição)
-- [Licença](#-licença)
 
 ## 📝 Sobre
 
