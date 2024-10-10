@@ -1,9 +1,10 @@
 ---
-# Well Organized
+
+# 🌟 Well Organized
 
 Um aplicativo simples de gerenciamento de tarefas que permite aos usuários adicionar, arquivar e organizar suas tarefas de maneira eficiente. Este projeto foi desenvolvido para ajudar na produtividade e organização do dia a dia, e é baseado na disciplina de Programação para Web.
 
-## Índice
+## 📚 Índice
 
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
@@ -13,32 +14,32 @@ Um aplicativo simples de gerenciamento de tarefas que permite aos usuários adic
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
-## Sobre
+## 📝 Sobre
 
 O Well Organized é um gerenciador de tarefas que permite adicionar tarefas com uma descrição e uma cor associada. O aplicativo também apresenta feedback em áudio quando tarefas são adicionadas, completadas ou arquivadas. A interface é amigável e intuitiva, permitindo que usuários facilmente gerenciem suas atividades diárias.
 
-## Funcionalidades
+## ✔️ Funcionalidades
 
-- Adicionar novas tarefas com descrição e cor.
-- Visualizar a lista de tarefas pendentes.
-- Exibir mensagens de erro se uma tarefa já existir ou se a descrição não for fornecida.
-- Feedback sonoro para ações de conclusão e arquivamento.
-- Design responsivo e fácil de usar.
+- ✏️ Adicionar novas tarefas com descrição e cor.
+- 📋 Visualizar a lista de tarefas pendentes.
+- ⚠️ Exibir mensagens de erro se uma tarefa já existir ou se a descrição não for fornecida.
+- 🔊 Feedback sonoro para ações de conclusão e arquivamento.
+- 📱 Design responsivo e fácil de usar.
 
-## Tecnologias Utilizadas
+## 🔧 Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Áudio para feedback interativo
+- 🌐 HTML
+- 🎨 CSS
+- 💻 JavaScript
+- 🎵 Áudio para feedback interativo
 
-## Como Usar
+## 🚀 Como Usar
 
 1. **Adicionar Tarefa**: Clique no botão "Adicionar Tarefa" e preencha a descrição e a cor da tarefa.
 2. **Visualizar Tarefas**: As tarefas adicionadas serão exibidas na lista "A fazer".
 3. **Arquivar Tarefas**: Tarefas podem ser arquivadas conforme necessário.
 
-## Instalação
+## 📥 Instalação
 
 Para rodar o projeto localmente:
 
@@ -52,11 +53,8 @@ Para rodar o projeto localmente:
    ```
 3. Abra o arquivo `index.html` em um navegador de sua escolha.
 
-## Contribuição
+## 🤝 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para melhorias.
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-```
+---
