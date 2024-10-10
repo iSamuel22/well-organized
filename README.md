@@ -11,7 +11,6 @@ Um aplicativo simples de gerenciamento de tarefas que permite aos usuários adic
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Usar](#-como-usar)
 - [Instalação](#-instalação)
-- [Contribuição](#-contribuição)
 
 ## 📝 Sobre
 
@@ -51,9 +50,4 @@ Para rodar o projeto localmente:
    cd well-organized
    ```
 3. Abra o arquivo `index.html` em um navegador de sua escolha.
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para melhorias.
-
 ---
