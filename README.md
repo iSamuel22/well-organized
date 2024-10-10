@@ -6,13 +6,13 @@ Um aplicativo simples de gerenciamento de tarefas que permite aos usuários adic
 
 ## 📚 Índice
 
-- [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Instalação](#instalação)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Sobre](#-sobre)
+- [Funcionalidades](#%EF%B8%8F-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como Usar](#-como-usar)
+- [Instalação](#-instalação)
+- [Contribuição](#-contribuição)
+- [Licença](#-licença)
 
 ## 📝 Sobre
 
